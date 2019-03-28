@@ -1,3 +1,6 @@
+Please note: Data was provided by a Ride Share company that wishes to remain anonymous. Our program was not asked to share the data, and therefore has been left out of this repository.
+
+
 ```python
 import numpy as np
 import pandas as pd
